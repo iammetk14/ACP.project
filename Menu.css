@@ -1,0 +1,17 @@
+.navigation{
+background:black;
+height:125px;
+padding: 2px auto;
+}
+img{
+height:50px;
+width:50px;
+}
+body{
+background:linear-gradient(red, lightblue, purple, orange, lightgreen);
+scroll-behavior: smooth;
+}
+.type{
+height:30px;
+width:35px;
+}
