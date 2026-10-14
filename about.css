@@ -1,0 +1,19 @@
+.navigation{
+background:black;
+height:125px;
+padding: 2px auto;
+}
+img{
+height:50px;
+width:50px;
+}
+.pic{
+height:500px;
+width:490px;
+}
+body{
+background:linear-gradient(black,rgb(92, 2, 92), darkred, red)
+}
+p{
+color:yellow;
+}

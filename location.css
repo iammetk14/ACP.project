@@ -1,0 +1,34 @@
+.navigation{
+background:black;
+height:125px;
+padding: 2px auto;
+}
+img{
+height:50px;
+width:50px;
+}
+body{
+background:linear-gradient(to right,pink, rgb(201, 34, 201),purple );
+height:800px;
+scroll-behavior: smooth;
+}
+.restaurant{
+height:230px;
+width:290px;
+}
+.rest{
+height:230px;
+width:290px;
+}
+.res{
+height:230px;
+width:290px;
+}
+.foreign{
+height:230px;
+width:290px;
+}
+footer{
+background:black;
+color:white;
+}
